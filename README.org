@@ -4,6 +4,6 @@ Common Lisp introspection library for the call stack and restarts
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/Shinmera/dissect.git |
-| commit  | a70cabc                                     |
+| commit  | a1e61e6                                     |
 | systems | dissect                                     |
 |---------+---------------------------------------------|
